@@ -20,9 +20,13 @@ Explain how to use the scripts, with examples.
 
 ### Script 1: Description of script 1
 ![Ussage of Commands mkdir,ls,echo,cp](./images/Exp2.png)
+
 ```bash
 #!/bin/bash
 mkdir Data
 mkdir Projects
 echo "Hello World"
 
+
+
+[def]: ./images/Exp2.png
