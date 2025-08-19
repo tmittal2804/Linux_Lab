@@ -17,7 +17,7 @@ pwd
 ```
 
 ### The output of the command is as below -
-![Image] 
+![Image](./images/pwd.png)
 
 ---
 
@@ -34,7 +34,7 @@ ls
 * `ls -la` → Combined
 
 ### The output of the command is as below -
-![Image] 
+![Image](./images/ls.png)
 
 ---
 
@@ -46,7 +46,7 @@ Moves into a directory.
 cd folder_name
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/cd.png)
 
 ---
 
@@ -72,7 +72,7 @@ Creates an empty file.
 touch file.txt
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/touch.png)
 
 ---
 
@@ -88,7 +88,7 @@ cp data.txt sample.txt
 cp -r Data Experiments
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/cp.png)
 
 ---
 
@@ -102,7 +102,7 @@ mv data.txt context.txt
 mv sample.txt ~/Desktop/UPES/Linux_Lab/Experiments   # Move file
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/mv.png)
 
 ---
 
@@ -113,7 +113,8 @@ rm context.txt        # Delete file
 rm -r Experiments  # Delete folder (recursively)
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/rm1.png)
+![Image](./images/rm2.png)
 
 ⚠️ **Be careful!** There is no undo.
 
@@ -129,7 +130,7 @@ Displays content in terminal.
 cat data.txt
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/cat.png)
 
 ---
 
@@ -145,7 +146,7 @@ nano data.txt
 * `CTRL + O` to save
 * `CTRL + X` to exit
 ### The output of the command is as below -
-![Image] 
+![Image](./images/nano.png)
 
 ---
 
@@ -157,7 +158,7 @@ clear
 
 Shortcut: `CTRL + L`
 ### The output of the command is as below -
-![Image] 
+![Image](./images/clear.png)
 
 ---
 
@@ -171,7 +172,7 @@ Useful for debugging or scripting.
 echo "Hello, World!"
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/echo.png)
 
 ---
 
@@ -181,7 +182,7 @@ echo "Hello, World!"
 whoami
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/whoami.png)
 
 ---
 
@@ -191,7 +192,7 @@ whoami
 man ls
 ```
 ### The output of the command is as below -
-![Image] 
+![Image](./images/man.png)
 
 Use `q` to quit the manual.
 
