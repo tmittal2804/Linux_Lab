@@ -41,8 +41,10 @@ You’ll be prompted to set a password and user info.\
 ### 🔑 `passwd` – Change User Password
 
 ```bash
-sudo passwd newusername
+sudo passwd codebind
 ```
+### The output of the command is as below -
+![Image](./images/passwd.png)
 
 ---
 
@@ -59,20 +61,24 @@ Example:
 ```bash
 sudo usermod -aG sudo alice     # Give 'alice' sudo access
 ```
+### The output of the command is as below -
+![Image](./images/usermod.png)
 
 ---
 
 ### ❌ `deluser` – Delete a User
 
 ```bash
-sudo deluser username
+sudo deluser codebind
 ```
 
 To remove the user's home directory:
 
 ```bash
-sudo deluser --remove-home username
+sudo deluser --remove-home username (// user can enter their username)
 ```
+### The output of the command is as below -
+![Image](./images/Deluser.png)
 
 ---
 
@@ -92,7 +98,21 @@ chmod [permissions] file
 chmod 755 script.sh     # Owner: read/write/execute; others: read/execute
 chmod +x file.sh        # Add execute permission
 chmod -x file.sh        # Remove execute permission
-```
+
+### The output of the command is as below -
+![Image](./images/Chmod.png)
+
+### Command includes 
+    - Creating a file
+    - Adding execute (+x)
+    - Removing execute (-x)
+    - Giving full 755 permissions
+    - Running the script
+
+ ### The output of the command is as below -
+![Image](./images/Chmod.png)
+
+---
 
 ### 🔢 What Do Numbers Mean?
 
@@ -110,6 +130,8 @@ Example:
 chmod 644 file.txt
 # Owner: read/write, Group: read, Others: read
 ```
+### The output of the command is as below -
+![Image](./images/644.png)
 
 ---
 
@@ -122,7 +144,7 @@ sudo chown user:group file
 Example:
 
 ```bash
-sudo chown alice:alice myfile.txt
+sudo chown demo:myfile.txt
 ```
 
 ---
@@ -246,7 +268,7 @@ kill -9 12345
 
 ---
 
-## ✅ 8. **Shutdown and Reboot**
+## ✅ 8. Shutdown (One can reboot also)
 
 ```bash
 sudo shutdown now        # Immediate shutdown
