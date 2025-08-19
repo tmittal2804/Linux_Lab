@@ -213,7 +213,7 @@ find . -name "*.txt"
 ### `grep` – Search Inside Files
 
 ```bash
-grep "Hello" ddata.txt
+grep "Hello" data.txt
 ```
 ### The output of the command is as below -
 ![Image](./images/grep.png)
