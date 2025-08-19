@@ -43,10 +43,13 @@ ls
 Moves into a directory.
 
 ```bash
-cd folder_name
+cd Linux_Lab      # Go to Documents
+cd ..             # Go up one level
+cd /              # Go to root
+cd ~              # Go to home directory
 ```
 ### The output of the command is as below -
-![Image](./images/cd.png)
+![Image](./images/cdfinal.png)
 
 ---
 
@@ -241,7 +244,7 @@ grep "Hello" data.txt
 mkdir Test && cd Test && touch example.txt
 ```
 ### The output of the command is as below -
-![Image](./images/
+![Image](./images/Combined.png)
 
 ### Points to ponder
 * **Run only if previous command succeeds**: `&&`
