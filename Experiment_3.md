@@ -222,6 +222,31 @@ grep "Hello" data.txt
 
 ---
 
+## ✅ 6. **Helpful Shortcuts**
+
+| Shortcut   | Action                      |
+| ---------- | --------------------------- |
+| `Tab`      | Auto-complete files/folders |
+| `↑ / ↓`    | Browse command history      |
+| `CTRL + C` | Stop a running command      |
+| `CTRL + L` | Clear screen                |
+
+---
+
+## ✅ 7. **Bonus: Chaining Commands**
+
+* **Run multiple commands**:
+
+```bash
+mkdir Test && cd Test && touch example.txt
+```
+### The output of the command is as below -
+![Image](./images/
+
+### Points to ponder
+* **Run only if previous command succeeds**: `&&`
+* **Run regardless of success**: `;`
+
 
 
 
