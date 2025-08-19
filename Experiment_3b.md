@@ -28,10 +28,15 @@ You'll usually be prompted to enter your password.
 ### 👤 `adduser` – Create a New User
 
 ```bash
-sudo adduser newusername
+sudo adduser codebind
 ```
+You’ll be prompted to set a password and user info.\
 
-You’ll be prompted to set a password and user info.
+### The output of the command is as below -
+![Image](./images/Adduser.png)
+![Image](./images/adduser1.png)
+
+
 
 ### 🔑 `passwd` – Change User Password
 
