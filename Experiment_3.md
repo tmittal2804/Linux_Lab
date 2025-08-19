@@ -57,7 +57,7 @@ cd folder_name
 Creates a new folder.
 
 ```bash
-mkdir new_folder
+mkdir Experiments
 ```
 ### The output of the command is as below -
 ![Image](./images/mkdir.png)
@@ -205,6 +205,20 @@ Use `q` to quit the manual.
 ```bash
 find . -name "*.txt"
 ```
+### The output of the command is as below -
+![Image](./images/fIND.png)
+
+---
+
+### `grep` – Search Inside Files
+
+```bash
+grep "hello" file.txt
+```
+
+🔍 Searches for the word `hello` inside `file.txt`.
+
+---
 
 
 
