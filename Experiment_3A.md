@@ -84,7 +84,7 @@ sudo deluser --remove-home username (// user can enter their username)
 
 ## ✅ 3. **File Permissions with `chmod` and `chown`**
 
-### 🔐 `chmod` – Change File Permissions
+    ### 🔐 `chmod` – Change File Permissions
 
 Basic syntax:
 
@@ -98,22 +98,9 @@ chmod [permissions] file
 chmod 755 script.sh     # Owner: read/write/execute; others: read/execute
 chmod +x file.sh        # Add execute permission
 chmod -x file.sh        # Remove execute permission
+```
 
-### The output of the command is as below -
-![Image](./images/Chmod.png)
-
-### Command includes 
-    - Creating a file
-    - Adding execute (+x)
-    - Removing execute (-x)
-    - Giving full 755 permissions
-    - Running the script
-
- ### The output of the command is as below -
-![Image](./images/Chmod.png)
-
----
-
+### 🔢 What Do Numbers Mean?
 ### 🔢 What Do Numbers Mean?
 
 | Number | Permission             |
@@ -127,11 +114,8 @@ chmod -x file.sh        # Remove execute permission
 Example:
 
 ```bash
-chmod 644 file.txt
-# Owner: read/write, Group: read, Others: read
+chmod 644 file.txt 
 ```
-### The output of the command is as below -
-![Image](./images/644.png)
 
 ---
 
@@ -142,6 +126,7 @@ sudo chown user:group file
 ```
 
 Example:
+
 
 ```bash
 sudo chown demo:myfile.txt
@@ -158,6 +143,9 @@ df -h
 ```
 
 Shows mounted partitions with human-readable sizes.
+
+### The output of the  command is as below 
+
 
 ---
 
