@@ -61,15 +61,29 @@ Tells the Operating system to execute this file with /bin/bash (the Bash shell).
 ```
 File name or short description for the user
 
-### 3.
+#### 3.
 
 ```bash
 # Usage: ./Armstrong.sh 153
 ```
 Showing the command line to run,Number added after sh file is the number on which the operation will be performed
 
-### 4. 
+#### 4. 
 A line left to improve the readiability of the code, it has no effeect on execution.
 
-### 5.
+#### 5.
+
+```bash
+if [ $# -ne 1 ]; then
+```
+- "$#" → This is a special variable in Bash. It tells you how many arguments you gave to the script when running it.
+- "-ne"→ This means "not equal".
+- "1"→ The script expects only 1 argument.
+so the line checks,
+👉 "Did the user give something other than 1 argument?"
+- If yes → then go inside the then block (usually to show an error or usage message).
+- If no (exactly 1 argument given) → skip the then block and continue the script.
+
+
+
 
