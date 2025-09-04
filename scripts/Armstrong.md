@@ -1,5 +1,5 @@
 # ARMSTRONG NUMBER 
-An Armstrong number (also called a narcissistic number) is an integer that is equal to the sum of each of its digits raised to the power of the number of digits. Example: 153 = 1^3 + 5^3 + 3^3.
+An Armstrong number is an integer that is equal to the sum of each of its digits raised to the power of the number of digits. Example: 153 = 1^3 + 5^3 + 3^3.
 ## Orignal script 
 ```bash
 
