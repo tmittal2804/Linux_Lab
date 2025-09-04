@@ -40,6 +40,3 @@ else
   echo "$n is NOT an Armstrong number (sum=$sum)."
 fi
 
-## LINE BY LINE EXPLANATION 
-### 1. 
-
