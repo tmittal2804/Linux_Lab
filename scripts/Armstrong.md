@@ -47,9 +47,29 @@ fi
 ```
 ## LINE BY LINE EXPLANATION 
 
-### 1. Shebang
+### 1. Shebang 
 
 ```bash
 #!/bin/bash
 ```
 Tells the Operating system to execute this file with /bin/bash (the Bash shell).
+
+### 2.
+
+```bash
+# Armstrong.sh
+```
+File name or short description for the user
+
+### 3.
+
+```bash
+# Usage: ./Armstrong.sh 153
+```
+Showing the command line to run,Number added after sh file is the number on which the operation will be performed
+
+### 4. 
+A line left to improve the readiability of the code, it has no effeect on execution.
+
+### 5.
+
