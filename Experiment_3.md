@@ -63,7 +63,7 @@ Creates a new folder.
 mkdir Experiments
 ```
 ### The output of the command is as below -
-![Image](./images/mkdir.png)
+![Image]
 
 ---
 
