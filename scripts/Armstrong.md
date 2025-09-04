@@ -45,3 +45,11 @@ else
 fi
 
 ```
+## LINE BY LINE EXPLANATION 
+
+### 1. Shebang
+
+```bash
+#!/bin/bash
+```
+Tells the Operating system to execute this file with /bin/bash (the Bash shell).
