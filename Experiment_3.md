@@ -60,10 +60,11 @@ cd ~              # Go to home directory
 Creates a new folder.
 
 ```bash
-mkdir Experiments
+mkdir Assignments
 ```
 ### The output of the command is as below -
-![Image]
+![Image](./images/mkdirfinal.png)
+![Image](./images/mkdir3.png)
 
 ---
 

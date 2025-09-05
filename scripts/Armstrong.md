@@ -84,6 +84,27 @@ if [ $# -ne 1 ]; then
 1) If yes → then go inside the then block (usually to show an error or usage message).
 2) If no (exactly 1 argument given) → skip the then block and continue the script.
 
+#### 6.
+
+```bash
+echo "Usage: $0 <non-negative-integer>"
+```
+- echo
+A shell builtin that writes text to standard output (stdout). It prints whatever follows it, then a newline (usually).
+- "Usage: $0 <non-negative-integer>"
+This is the string echo will print. Because it’s in double quotes, variable expansion happens, and the text is kept together (no word-splitting).
+- $0
+A special shell variable that expands to how the script was invoked.
+
+#### 7.
+
+```bash
+exit 1
+```
+- Exits the script with status 1
+
+#### 8.
+
 
 
 
