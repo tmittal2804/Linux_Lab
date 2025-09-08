@@ -16,26 +16,25 @@ more.
 
 ## STEP 2 : INSTALLING VIRTUAL BOX
     
- ### 1 The beginning
+ ### 1 The Beginning
 ![images](./images2/installation2.png)
  ### 2 select installation location
 ![images](./images2/installation3.png)
- ### 3 ready to install
+ ### 3 Ready to install
 ![images](./images2/installation4.png)
- ### 4 installation complete 
+ ### 4 Installation complete 
 ![images](./images2/installation5.png)
- ### 5 opening virtualbox
+ ### 5 Opening virtualbox
 ![images](./images2/installation6.png)
 ## STEP 3 : INSTALLING LINUX USING VIRTUALBOX
 ### 1 Naming virtual machine
 
    After installing virtual box ,click New .
 
-   – Write the Name you want for your system, for example: Linux Mint
-
-   – Select Type: Linux.
-
-   – Select Version: Ubuntu
+  - Write the Name you want for your system, for example: Ubuntu 24.04 LTS
+  - Select Type: Linux.
+  - Operating system: ubuntu(64 bit)
+  - Select Version: Ubuntu
    
 ![images](./images/photo7.png)
 ### 2 select the amount of ram
