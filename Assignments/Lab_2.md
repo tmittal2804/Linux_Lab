@@ -8,12 +8,13 @@
 ![Image](./images2/S1.png)
 
 ### line-by-line explanation
-1.#!/bin/bash-shebang, tells the system to run the script with the bash shell.
-2.# script to print numbers from 1 to 10 - A comment describing the script.
-3.for i in {1..10} - Loop from 1 through 10 ,assigning each value to variable i.
-4.do - Marks the beginning of commands inside the loop.
-5.echo "number: $i" - Prints the current number with a label.
-6.done - marks the end of the loop.
+
+- #!/bin/bash-shebang, tells the system to run the script with the bash shell.
+- # script to print numbers from 1 to 10 - A comment describing the script.
+- for i in {1..10} - Loop from 1 through 10 ,assigning each value to variable i.
+- do - Marks the beginning of commands inside the loop.
+- echo "number: $i" - Prints the current number with a label.
+- done - marks the end of the loop.
 
 ### To Run 
 ![Image](./images2/S2.png)
@@ -30,20 +31,59 @@
 -This script loops through an array of names and prints each one.
 
 ### Code 
-![images](./images/a1.png)
+![images](./images2/S4.png)
 
 ### line-by-line explanation
-1.#!/bin/bash → Uses Bash shell to run the script.
-2.# Script to demonstrate array and loop → Comment.
-3.names=("abhay" "pratap" "singh") → Declares an array with three elements.
-4.for name in "${names[@]}" → Loops through all elements of the array, assigning each one to name.
-5.do → Start of loop body.
-6.echo "Hello, $name!" → Prints a greeting for each array element.
-7.done → End of loop"
+
+1. 
+```bash
+#!/bin/bash
+```
+
+- This is called a shebang.
+- It tells the system: “Run this script using the Bash shell (located at /bin/bash).
+
+2. 
+```bash
+fruits=("apple" "banana" "cherry")
+```
+
+- Here, we are creating an array named fruits.
+-  The array has 3 elements: "apple", "banana", and "cherry".
+- In Bash, arrays are written with () and values are separated by spaces.
+
+3. 
+```bash
+echo "First fruit: ${fruits[0]}"
+```
+- echo prints text to the terminal.
+- ${fruits[0]} means: “get the first element of the array fruits”.
+- Arrays in Bash start at index 0.
+- So this prints:
+ First fruit: apple
+
+4. 
+```bash
+echo "Second fruit: ${fruits[1]}"
+```
+
+- Same idea as above, but ${fruits[1]} means the second element.
+- This Prints 
+ Second fruit: banana
+
+5. 
+```bash
+echo "All fruits: ${fruits[@]}"
+```
+
+- ${fruits[@]} means: “all elements of the array”.
+- So it prints everything:
+ All fruits: apple banana cherry
+
 
 ### Example Run
 
-![images](./images/a2.png)
+![images](./images2/S5.png)
 
 ### Question
 
