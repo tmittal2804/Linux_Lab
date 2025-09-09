@@ -2,7 +2,7 @@
 
 ## 1. Script: print _numbers.sh
 ### Purpose
--This script prints numbers from 1 to 10 using a loop.
+- This script prints numbers from 1 to 10 using a loop.
 
 ### Code 
 ![Image](./images2/S1.png)
