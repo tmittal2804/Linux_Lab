@@ -3,8 +3,9 @@
 ## 1. Script: print _numbers.sh
 ### Purpose
 -This script prints numbers from 1 to 10 using a loop.
+
 ### Code 
-[IMage](./images2/S1.png)
+[Image](./images2/S1.png)
 
 ### line-by-line explanation
 1.#!/bin/bash-shebang, tells the system to run the script with the bash shell.
@@ -15,7 +16,7 @@
 6.done - marks the end of the loop.
 
 ### To Run 
-[images](./images2/S2.png)
+[Image](./images2/S2.png)
 
 - Chmod 777 print_numbers.sh - Gives all the acccess
 - ./print_numbers.sh - Runs the script
