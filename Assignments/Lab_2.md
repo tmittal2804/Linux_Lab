@@ -45,6 +45,7 @@
 
 ![images](./images/a2.png)
 
-ques1-How do you make a script executable?
+### Question
 
-chmod +x enhanced_numbers.sh
+Question-1. How do you make a script executable?
+Answer-1 .chmod +x print_numbers.sh
