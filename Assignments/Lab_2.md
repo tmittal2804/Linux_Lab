@@ -10,7 +10,7 @@
 ### line-by-line explanation
 
 - #!/bin/bash-shebang, tells the system to run the script with the bash shell.
-- # script to print numbers from 1 to 10 - A comment describing the script.
+- "#" script to print numbers from 1 to 10 - A comment describing the script.
 - for i in {1..10} - Loop from 1 through 10 ,assigning each value to variable i.
 - do - Marks the beginning of commands inside the loop.
 - echo "number: $i" - Prints the current number with a label.
