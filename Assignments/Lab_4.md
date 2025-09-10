@@ -24,7 +24,6 @@ chmod +x backup.sh
 ls backup/
 ![images](./images/l4.png)
 
-# LAB_5 – File & Backup Automation
 
 ## Objective
 Automate the backup of ⁠ .txt ⁠ files into a ⁠ backup/ ⁠ folder with timestamps in filenames.
