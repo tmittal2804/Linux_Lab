@@ -23,7 +23,7 @@ chmod +x Backup.sh
 ### 3. Check the backup/folder:
 ![images](./images2/Backup%20folder.png)
 
-
+# LAB 5 (File backup and automation)
 ## Objective
 Automate the backup of ⁠ .txt ⁠ files into a ⁠ backup/ ⁠ folder with timestamps in filenames.
 
