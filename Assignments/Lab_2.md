@@ -1,4 +1,4 @@
-# Script Execution 
+# LAB 2 (Script Execution)
 
 ## 1. Script: print _numbers.sh
 ### Purpose

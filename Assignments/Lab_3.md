@@ -1,4 +1,4 @@
-# LAB3 (Modify an existing script)
+# LAB 3 (Modify an existing script)
 
 ## ✅ Script: enhanced_numbers.sh
 ![Image](./images2/B1.png)
