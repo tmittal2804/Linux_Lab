@@ -20,10 +20,12 @@
 ### Example Runs
 
 Example-1
-![images](./images/j3.png)
+![images](./images2/B3.png)
 
 Example-2
-![images](./images/j4.png)
+![images](./images2/B4.png)
+
+### Extra Questions
 
 - Question-1 ) "Difference between $1, $@, and $# in bash?"
 - Answer-1)
