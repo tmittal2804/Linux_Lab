@@ -1,4 +1,6 @@
-# Script : starter_kit.sh
+# LAB 5 (Starter Kit)
+
+## Script : starter_kit.sh
 ![images](./images2/Starter1.png)
 
 - "#!/bin/bash → Shebang line. It tells the system to use bash to execute this script.

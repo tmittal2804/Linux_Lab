@@ -1,4 +1,6 @@
-# ✅ Script: enhanced_numbers.sh
+# LAB3 (Modify an existing script)
+
+## ✅ Script: enhanced_numbers.sh
 ![Image](./images2/B1.png)
 
 ### Make it executable:
