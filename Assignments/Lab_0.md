@@ -7,7 +7,7 @@ Linux distributions (or distros). Developed by Linus Torvalds in
 1991, Linux is known for its stability, security, and versatility,
 making it popular for servers, desktops, embedded systems, and
 more.
-## STEP 1 : DOWNLOAD VIRTUALBOX FILE .
+## STEP 1 : DOWNLOAD VIRTUALBOX FILE 
 
     1 Go to the VirtualBox Website
 
@@ -36,9 +36,9 @@ more.
   - Operating system: ubuntu(64 bit)
   - Select Version: Ubuntu
    
-![images](./images/photo7.png)
+
 ### 2 select the amount of ram
-![images](./images/photo8.png)
+![Image](./images2/Selectram.png)
 
 ### 3 Hard Disk setting
   Select hard disk setting:
@@ -48,34 +48,26 @@ more.
   – Select the amount of hard drive size.
 
   -now you are done with hardware settings.
+  ![Image](./images2/SelectHarddisk.png)
 
-![images](./images/photo9.png) 
 ### 4 Launching your System
 
    Choose the downloaded Linux ISO file:
 
    – Click Start to launch your system
-![images](./images/photo9.png)
-  - choose your iso file from your computer
-![images](./images/photo10.png)
+  
+   choose your iso file from your computer
   
 ### 5 Final installation
-
-    Install Linux
-
-    – Click Install Linux Mint:
-     testf
-![images](./images/photo11.png)
+ Install Linux and further set the Keyboard and other preferences
 
 ### Make your Account:
+- Enter your details 
 
-– Enter your details as shown below
-![images](./images/photo12.png)
-
-# what are two advantages of installing ubuntu in virtual box?
--Robust snapshot and cloning capabilities
-# what are two advantages of dual booting instead of using a vm?
--better perfomance
--full hardware compability and access
+### what are two advantages of installing ubuntu in virtual box?
+- Robust snapshot and cloning capabilities
+### what are two advantages of dual booting instead of using a vm?
+- better perfomance
+- full hardware compability and access
 
 # CONGRATULATIONS YOU HAVE SUCCESSFULLY INSTALLED THEUBUNTU LINUX .
