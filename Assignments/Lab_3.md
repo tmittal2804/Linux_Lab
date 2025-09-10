@@ -19,10 +19,12 @@
 
 ### Example Runs
 
-Example-1
+- Example-1
+
 ![images](./images2/B3.png)
 
-Example-2
+- Example-2
+
 ![images](./images2/B4.png)
 
 ### Extra Questions
