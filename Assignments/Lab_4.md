@@ -1,6 +1,6 @@
 # Lab_4 (File Back and Automation)
 
-## 1.⁠ ⁠backup.sh Script
+## 1.⁠ ⁠Backup.sh Script
 
 Create a new file named backup.sh inside your project folder:
 ![images](./images/l1.png)
@@ -10,7 +10,7 @@ Create a new file named backup.sh inside your project folder:
 Run the following command once:
 
 ```bash
-chmod +x backup.sh
+chmod +x Backup.sh
 ```
 
 ## 3. Testing the script
@@ -49,8 +49,6 @@ Automate the backup of ⁠ .txt ⁠ files into a ⁠ backup/ ⁠ folder 
 
 ---
 
-## Example Run
-
 ### Input
 Created two ⁠ .txt ⁠ files:
 
@@ -58,7 +56,7 @@ file1.txt
 file2.txt
 
 ### Command
-./backup.sh
+./Backup.sh
 
 ### Output
 Files copied into ⁠ backup/ ⁠ with timestamps:
