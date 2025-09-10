@@ -3,7 +3,7 @@
 ## 1.⁠ ⁠Backup.sh Script
 
 Create a new file named backup.sh inside your project folder:
-![images](./images/l1.png)
+![images](./images2/backupscript.png)
 
 ## 2. Make Script Executable
 
@@ -16,13 +16,12 @@ chmod +x Backup.sh
 ## 3. Testing the script
 
 ### 1. Create some samples .txt files:
-![images](./images/l2.png)
+![images](./images2/Adding%20text%20file.png)
 ### 2. Run the script:
 ./backup.sh
-![images](./images/l3.png)
+![images](./images2/BackupExecution.png)
 ### 3. Check the backup/folder:
-ls backup/
-![images](./images/l4.png)
+![images](./images2/Backup%20folder.png)
 
 
 ## Objective
@@ -59,8 +58,7 @@ file2.txt
 ./Backup.sh
 
 ### Output
-Files copied into ⁠ backup/ ⁠ with timestamps:
-![images](./images/l3.png)
+![Image](./images2/BackupExecution.png)
 
 ## Extra Questions - 
 
