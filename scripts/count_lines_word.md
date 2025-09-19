@@ -1,4 +1,4 @@
-## Count_Line_Word
+## Count_Lines_Words
 
 ### Code
 ![Images](../images/Codeofcount_lines_word.png)
