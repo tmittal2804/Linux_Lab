@@ -1,6 +1,6 @@
 #!/bin/bash
 # count_lines_word.sh
-# Usage: ./count_lines_word filename.txt
+# Usage: ./count_lines_word.sh filename.txt 
 
 if [ $# -ne 1 ]; then
   echo "Usage: $0 <filename>"

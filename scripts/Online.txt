@@ -1,0 +1,1 @@
+Linux is an open-source operating system (OS) that’s widely used in servers, desktops, mobile devices, embedded systems, and even supercomputers. It was first released by Linus Torvalds in 1991 as a free alternative to proprietary operating systems like UNIX. Over time, it has grown into one of the most powerful and versatile OS platforms in the world.
