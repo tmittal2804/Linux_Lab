@@ -10,7 +10,7 @@
 
 - "# Usage: ./check_file.sh filename.txt" — Comment: shows how to call the script (helpful for users).
 
-- if [ $# -ne 1 ]; then — Start an if that checks the number of positional arguments: $# is the count of arguments; -ne 1 means “not equal to 1”. If the script was not given exactly one argument, the then block runs.
+- " if [ $# -ne 1 ]; then " — Start an if that checks the number of positional arguments: $# is the count of arguments; -ne 1 means “not equal to 1”. If the script was not given exactly one argument, the then block runs.
 
 - echo "Usage: $0 <filename>" — Print a usage message. $0 expands to the script name (how it was invoked).
 
