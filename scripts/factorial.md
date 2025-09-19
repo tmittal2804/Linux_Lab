@@ -3,7 +3,7 @@
 ### Code
 ![Image](../images/Factorialcode.png)
 
-### Line by line explanation
+### Line by Line Explanation
 -  #!/bin/bash — Shebang. Tells the OS to run this script with /bin/bash (the Bash shell).
 
 - "# factorial.sh "— Comment: short name/description of the file (ignored by the shell).
