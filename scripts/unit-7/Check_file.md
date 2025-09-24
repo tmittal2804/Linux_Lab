@@ -1,7 +1,7 @@
 ## Check file permission 
 
 ### Code
-![Image](../images/codetocheckpermission.png)
+![Image](./images3/codetocheckpermission.png)
 
 ### Line by Line Explanation
 - #!/bin/bash — Shebang: tells the OS to run this script with /bin/bash (the Bash shell).
@@ -45,4 +45,4 @@
 - fi — End the outer if (the if [ -e ... ] block).
 
 ### Output
-![Image](../images/checkfile.png)
+![Image](./images3/runcheckfile.png)

@@ -1,7 +1,7 @@
 ## Print Numbers
 
 ### Code
-![Image](../images/codetoprintnumbers.png)
+![Image](./images3/codetoprintnumbers.png)
 
 ### Line by line Explanation
 
@@ -26,7 +26,7 @@ Inside the loop, this command prints the value of the current element to (your t
 This keyword marks the end of the for loop. Once the script has finished through all the elements in the array, it will exit the loop and continue with any code.
 
 ### Output
-![Image](../images/codetorunprintnumbers.png)
+![Image](./images3/codetorunprintnumbers.png)
 
 
 

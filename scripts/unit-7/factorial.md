@@ -1,7 +1,7 @@
 ## Factorial
 
 ### Code
-![Image](../images/Factorialcode.png)
+![Image](./images3/Factorialcode.png)
 
 ### Line by Line Explanation
 -  #!/bin/bash — Shebang. Tells the OS to run this script with /bin/bash (the Bash shell).
@@ -61,4 +61,4 @@
 - done — End of the for loop (finished processing all arguments).
 
 ### Output 
-![Image](../images/Runfactorial.png)
+![Image](./images3/Runfactorial.png)

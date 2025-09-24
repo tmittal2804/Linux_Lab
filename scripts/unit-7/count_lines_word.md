@@ -1,7 +1,7 @@
 ## Count_Lines_Words
 
 ### Code
-![Images](../images/Codeofcount_lines_word.png)
+![Images](./images3/Codeofcount_lines_word.png)
 
 ### Line By Line Explanation
 
@@ -57,7 +57,7 @@ This command prints the value of the words variable to the terminal, prefixed wi
 This command prints the value of the chars variable to the terminal, prefixed with the label "Characters: ".
 
 ### Output 
-![Image](../images/CodeRunofcountlineword.png)
+![Image](./images3/CodeRunofcountlineword.png)
 
 
 
