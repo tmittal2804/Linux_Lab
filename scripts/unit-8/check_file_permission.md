@@ -9,8 +9,7 @@
 ```bash
 #!/bin/bash
 ```
-- The #!/bin/bash is called a shebang line.
-- It tells the system to use /bin/bash to run the script.
+- Shebang line — tells the system to run the script using Bash.
 
 ```bash
 # check_file_permission.sh
