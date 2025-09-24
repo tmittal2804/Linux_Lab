@@ -5,7 +5,6 @@
     - cmp "a" "b" → checks if the two strings are equal.
 ### Code
 ![Image](./images4/code2.png)
-
 ### Line By Line Explanation
 
 ```bash
