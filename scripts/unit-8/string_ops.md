@@ -1,4 +1,4 @@
-## string_length_comparison
+## String_length_comparison
 - This script performs basic string operations depending on the first argument (len, concat, or cmp):
     - len "hello world" → prints the length of the string.
     - concat "hello" "world" → joins them into one string.
