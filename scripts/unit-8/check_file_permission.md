@@ -1,4 +1,5 @@
 ## Check_file_permission
+ - The script takes one filename as input and tells you whether the current user has read, write, and execute permissions on it.
 
 ### Code
 ![Image](./images4/code1.png)
@@ -75,4 +76,3 @@ Usage: ./check_file_permission.sh <filename>
 ### Output
 ![Image](./images4/coderun1.png)
 
-- The script takes one filename as input and tells you whether the current user has read, write, and execute permissions on it.
