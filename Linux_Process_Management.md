@@ -30,8 +30,7 @@ ps aux
 
 - "ps aux" It list all the running commands on system includinng system daemons
 
-#### Output 
-![Image](./images5/psaux1.png)
+#### Output ![Image](./images5/psaux1.png)
 ![Image](./images5/psaux2.png)
 
 - 👉 Useful for system monitoring, troubleshooting high CPU/memory usage, or finding PIDs.
