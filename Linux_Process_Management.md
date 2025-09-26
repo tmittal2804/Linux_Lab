@@ -90,17 +90,17 @@ renice -n -5 -p 9467
 ![Image](./images5/renice.png)
 
 #### 5. 🧩 CPU Affinity (Bind Process to CPU Core)
-taskset -cp 3050
 
+```bash
+taskset -cp 9467
+```
 
-Purpose: Shows CPU cores a process can use.
+- Purpose: Shows CPU cores a process can use.
 
 Output:
+![Image](./images5/taskset1.png)
 
-pid 3050's current affinity list: 0-3
-
-
-Restrict to core 1:
+- Restrict to core 1:
 
 taskset -cp 1 3050
 
