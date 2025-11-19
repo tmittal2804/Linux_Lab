@@ -9,7 +9,7 @@
 Here are some of my organised assignments:
 
 - *Linux Lab Assignments* → https://github.com/tmittal2804/Linux_Lab
-- *C Programming Tasks* → https://github.com/tmittal2804/100_Days_of_code,https://github.com/tmittal2804/Code_Anytime
+- *C Programming Tasks* → https://github.com/tmittal2804/100_Days_of_code , https://github.com/tmittal2804/Code_Anytime
 
 ---
 
