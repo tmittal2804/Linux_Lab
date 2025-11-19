@@ -29,5 +29,5 @@ Here are some of my organised assignments:
 ---
 
 ## 📬 Connect With Me
-- Email: your-email
-- GitHub: https://github.com/yourusername
+- Email: tmittal6960@gmail.com
+- GitHub: https://github.com/tmittal2804
