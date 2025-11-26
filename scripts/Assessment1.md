@@ -1,11 +1,27 @@
 ### Assessment 1
 
-### Code
+##### write a program or shell script that processes two arrays — one containing strings or numbers (Array A) and another containing integers (Array B). The program should identify palindromes in the first array and prime numbers in the second array, then generate two specific outputs.
+- Problem Description :
+1. Given two arrays:
+    Array A: Contains a list of numbers or strings.
+   Array B: Contains a list of integers.
+2. Your program must:
+-   Step 1: Identify the positions (indices) of all palindromic elements in Array A.
+A palindrome is a string or number that reads the same backward as forward (e.g., 121, madam, 454).
+-   Step 2: Identify all prime numbers in Array B.
+A prime number is a number greater than 1 that has no divisors other than 1 and itself.
+-   Step 3: For each palindrome found in Array A, calculate the sum of its digits (if numeric) or ASCII values (if string).
+Then multiply this sum with each prime number found in Array B.
+-   Step 4: Output two new arrays:
+-     Array C: Contains the positions (indices) of palindromes in Array A.
+-     Array D: Contains the product of each palindrome’s digit sum with every prime number in Array
+
+##### Bash script is as follows:
 ![Image](./images/1.png)
 ![Image](./images/2.png)
 ![Image](./images/3.png)
 
-### Line By Line Explanation
+##### Line By Line Explanation
 
 1. #!/bin/bash
 -  Declares the script should run under the Bash shell.
@@ -91,5 +107,5 @@ Prints a prompt asking the user to enter values for Array B.
 28. echo "Final results (Array D): ${D[@]}"
 -  Prints all multiplication results stored in D.
 
-### Output:
+##### Output:
 ![Image](./images/4.png)
