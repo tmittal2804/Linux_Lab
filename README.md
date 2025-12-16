@@ -1,4 +1,4 @@
-# 🐧 Linux Lab
+## 🐧 Linux Lab
 
 ![Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux)
 ![BTech](https://img.shields.io/badge/Course-BTech%20CSE-blue)
@@ -8,13 +8,13 @@ This repository contains my **Linux Laboratory work** completed as part of the *
 
 ---
 
-## 📘 Overview
+### 📘 Overview
 It showcases a collection of systematically organised Linux experiments aimed at developing a strong **hands-on understanding of Linux and UNIX-based operating systems**.  
 Each experiment is documented with clarity to ensure ease of understanding and reproducibility.
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 - Gain practical exposure to **Linux system commands and utilities**
 - Strengthen **command-line proficiency** and problem-solving skills
 - Ensure **accurate execution** of tasks with proper outputs
@@ -22,7 +22,7 @@ Each experiment is documented with clarity to ensure ease of understanding and r
 
 ---
 
-## 📚 Repository Index
+### 📚 Repository Index
 
 | Lab / Module | Title | Path |
 |-------------|-------|-------------|
@@ -39,7 +39,7 @@ Each experiment is documented with clarity to ensure ease of understanding and r
 
 ---
 
-## 📂 Lab Scripts (Shell Scripting)
+### 📂 Lab Scripts (Shell Scripting)
 
 These shell scripts cover **fundamental and advanced Bash scripting concepts**, including arrays, loops, conditionals, functions, file handling, and user input. They are ideal for practice and lab submission.  
 
@@ -67,7 +67,7 @@ These shell scripts cover **fundamental and advanced Bash scripting concepts**, 
 
 ---
 
-## 🛠️ Concepts & Tools Covered
+### 🛠️ Concepts & Tools Covered
 - Linux command-line utilities  
 - File system and permission handling  
 - Process creation, monitoring, and control  
