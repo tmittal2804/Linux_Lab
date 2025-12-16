@@ -39,15 +39,15 @@ Each experiment is documented with clarity to ensure ease of understanding and r
 
 ---
 
-### 📂 Lab Scripts (Shell Scripting)
+## 📂 Lab Scripts (Shell Scripting)
 
 The following shell scripts demonstrate fundamental and advanced concepts of **Bash scripting**, including arrays, loops, and user input handling.
 
 | Script Name | Description | Path |
 |------------|------------|------|
-| `array_in_shell.sh` | Defining arrays in shell scripting | _Add path here_ |
-| `array_access.sh` | Accessing elements of an array | _Add path here_ |
-| `array_length.sh` | Finding the length of an array | _Add path here_ |
+| `array_in_shell.sh` | Defining arrays in shell scripting | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/array_in_shell.sh |
+| `array_access.sh` | Accessing elements of an array | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/array_access.sh |
+| `array_length.sh` | Finding the length of an array | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/array_length.sh |
 | `array_loop.sh` | Iterating over array elements | _Add path here_ |
 | `nested_loop_array.sh` | Using nested loops with arrays | _Add path here_ |
 | `print_numbers.sh` | Printing a sequence of numbers | _Add path here_ |
