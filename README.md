@@ -43,19 +43,19 @@ Each experiment is documented with clarity to ensure ease of understanding and r
 
 The following shell scripts demonstrate fundamental and advanced concepts of **Bash scripting**, including arrays, loops, and user input handling.
 
-| Script Name | Description | Path |
+| Script Name | Description |
 |------------|------------|------|
-| `array_in_shell.sh` | Defining arrays in shell scripting | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/array_in_shell.sh |
-| `array_access.sh` | Accessing elements of an array | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/array_access.sh |
-| `array_length.sh` | Finding the length of an array | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/array_length.sh |
-| `array_loop.sh` | Iterating over array elements | _Add path here_ |
-| `nested_loop_array.sh` | Using nested loops with arrays | _Add path here_ |
-| `print_numbers.sh` | Printing a sequence of numbers | _Add path here_ |
-| `print_with_range.sh` | Printing numbers within a given range | _Add path here_ |
-| `print_c_style_loop.sh` | Printing numbers using C-style for loop | _Add path here_ |
+| `array_in_shell.sh` | Defining arrays in shell scripting | 
+| `array_access.sh` | Accessing elements of an array | 
+| `array_length.sh` | Finding the length of an array |
+| `array_loop.sh` | Iterating over array elements | 
+| `nested_loop_array.sh` | Using nested loops with arrays | 
+| `print_numbers.sh` | Printing a sequence of numbers | 
+| `print_with_range.sh` | Printing numbers within a given range | 
+| `print_c_style_loop.sh` | Printing numbers using C-style for loop | 
 | `while_loop.sh` | Demonstration of while loop | _Add path here_ |
 | `read_user_input.sh` | Reading input from the user | _Add path here_ |
-| `read_user_input_to_stop.sh` | Controlling execution based on user input | _Add path here_ |
+| `read_user_input_to_stop.sh` | Controlling execution based on user input | 
 
 ---
 
