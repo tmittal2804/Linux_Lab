@@ -26,16 +26,16 @@ Each experiment is documented with clarity to ensure ease of understanding and r
 
 | Lab / Module | Title | Path |
 |-------------|-------|-------------|
-| **Lab 0** | Installation of Linux Ubuntu on Virtual Box  | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_0.md |
-| **Lab 1** | Basic Linux Commands | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_1.md |
-| **Lab 2** | Script Execution and Explanation | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_2.md |
-| **Lab 3** | Modify an Existing script | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_3.md |
-| **Lab 4** | File and Backup Automation  | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_4.md |
-| **Lab 5** | Starter Kit and Automation | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_5.md |
-| **Module** | Linux Process Management | https://github.com/tmittal2804/Linux_Lab/blob/main/Linux_Process_Management.md |
-| **Module** | Secure GUI Application Access using SSH (X11 Forwarding) | https://github.com/tmittal2804/Linux_Lab/blob/main/Secure_GUI_Application_Access.md |
-| **Module** | Virtual Network Computing (VNC over SSH Tunnel) |  https://github.com/tmittal2804/Linux_Lab/blob/main/Virtual_Network_Computing.md|
-| **Assessment** | Assessment–1 (Linux Practical & Concepts) | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/Assessment1.md |
+| `Lab 0` | Installation of Linux Ubuntu on Virtual Box  | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_0.md |
+| `Lab 1` | Basic Linux Commands | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_1.md |
+| `Lab 2` | Script Execution and Explanation | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_2.md |
+| `Lab 3` | Modify an Existing script | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_3.md |
+| `Lab 4` | File and Backup Automation  | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_4.md |
+| `Lab 5` | Starter Kit and Automation | https://github.com/tmittal2804/Linux_Lab/blob/main/Assignments/Lab_5.md |
+| `Module` | Linux Process Management | https://github.com/tmittal2804/Linux_Lab/blob/main/Linux_Process_Management.md |
+| `Module` | Secure GUI Application Access using SSH (X11 Forwarding) | https://github.com/tmittal2804/Linux_Lab/blob/main/Secure_GUI_Application_Access.md |
+| `Module` | Virtual Network Computing (VNC over SSH Tunnel) |  https://github.com/tmittal2804/Linux_Lab/blob/main/Virtual_Network_Computing.md|
+| `Assessment` | Shell Scripting | https://github.com/tmittal2804/Linux_Lab/blob/main/scripts/Assessment1.md |
 
 ---
 
