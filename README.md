@@ -41,22 +41,29 @@ Each experiment is documented with clarity to ensure ease of understanding and r
 
 ## 📂 Lab Scripts (Shell Scripting)
 
-The following shell scripts demonstrate fundamental and advanced concepts of **Bash scripting**, including arrays, loops, and user input handling.
+These shell scripts cover **fundamental and advanced Bash scripting concepts**, including arrays, loops, conditionals, functions, file handling, and user input. They are ideal for practice and lab submission.  
 
 | Script Name | Description |
 |------------|------------|
-| `first.sh` | First basic shell script |
-| `array_in_shell.sh` | Defining arrays in shell scripting |
-| `array_access.sh` | Accessing elements of an array |
-| `array_length.sh` | Finding the length of an array |
-| `array_loop.sh` | Iterating over array elements |
-| `nested_loop_array.sh` | Using nested loops with arrays |
-| `print_numbers.sh` | Printing a sequence of numbers |
-| `print_with_range.sh` | Printing numbers within a given range |
-| `print_c_style_loop.sh` | Printing numbers using C-style for loop |
-| `while_loop.sh` | Demonstration of while loop |
-| `read_user_input.sh` | Reading input from the user |
-| `read_user_input_to_stop.sh` | Controlling execution based on user input |
+| `first.sh` | 🟢 First basic shell script to demonstrate syntax and execution |
+| `array_in_shell.sh` | 📋 Defining arrays in shell scripting |
+| `array_access.sh` | 🔢 Accessing elements of an array |
+| `array_length.sh` | 📏 Finding the length of an array |
+| `array_loop.sh` | 🔁 Iterating over array elements |
+| `nested_loop_array.sh` | 🔄 Using nested loops with arrays |
+| `print_numbers.sh` | 1️⃣ Printing a sequence of numbers |
+| `print_with_range.sh` | 🔢 Printing numbers within a given range |
+| `print_c_style_loop.sh` | 💻 Printing numbers using C-style for loop |
+| `while_loop.sh` | ⏳ Demonstration of while loop |
+| `read_user_input.sh` | 📝 Reading input from the user |
+| `read_user_input_to_stop.sh` | ✋ Controlling execution based on user input |
+| `palindrome.sh` | 🔁 Check if a number or string is a palindrome |
+| `prime_number.sh` | 🔢 Check if a number is prime |
+| `armstrong.sh` | 💎 Check if a number is an Armstrong number |
+| `count_lines_words.sh` | 📄 Count number of lines and words in a file |
+| `factorial.sh` | 🎲 Calculate factorial of a number |
+| `check_file.sh` | 📂 Check file existence, type, and permissions |
+| `string_ops.sh` | ✂️ Perform various string operations (length, reverse, concatenate) |
 
 ---
 
